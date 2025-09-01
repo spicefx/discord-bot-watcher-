@@ -1,0 +1,150 @@
+2025-08-19 09:48:47,620 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not found!
+2025-08-19 09:48:47,620 - __main__ - ERROR - Please set your Discord bot token in the environment or .env file
+2025-08-19 09:49:47,585 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-19 09:49:47,585 - __main__ - INFO - Starting Discord Security Bot...
+2025-08-19 09:49:47,585 - discord.client - INFO - logging in using static token
+2025-08-19 09:49:48,230 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 647f80c030cbcc600f678c229b9e6168).
+2025-08-19 09:49:50,236 - bot - INFO - Tester#0385 has connected to Discord!
+2025-08-19 09:49:50,236 - bot - INFO - Bot is in 1 guilds
+2025-08-19 09:50:06,101 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-19 09:50:06,103 - __main__ - INFO - Starting Discord Security Bot...
+2025-08-19 09:50:06,105 - discord.client - INFO - logging in using static token
+2025-08-19 09:50:06,756 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 773ed06f01caec9036cc592add8fe604).
+2025-08-19 09:50:08,778 - bot - INFO - Tester#0385 has connected to Discord!
+2025-08-19 09:50:08,778 - bot - INFO - Bot is in 1 guilds
+2025-08-19 09:50:31,781 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "botstatus" is not found
+2025-08-19 09:50:45,767 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "botstatus" is not found
+2025-08-19 09:51:06,143 - bot - INFO - Bot detected joining ☆𝐀𝐬𝐲𝐥𝐮𝐦 𝐂𝐢𝐭𝐲☆ BACK UP serv: Lara✨ (ID: 944016826751389717)
+2025-08-19 09:51:08,369 - bot - INFO - Notified moderator luis01_. about bot Lara✨
+2025-08-19 09:51:08,369 - bot - INFO - Notified 1/1 moderators about bot Lara✨
+2025-08-19 09:53:43,000 - bot - INFO - Bot detected joining ☆𝐀𝐬𝐲𝐥𝐮𝐦 𝐂𝐢𝐭𝐲☆ BACK UP serv: Poké Helper (ID: 1219565055616749608)
+2025-08-19 09:53:44,303 - bot - INFO - Notified moderator luis01_. about bot Poké Helper
+2025-08-19 09:53:44,304 - bot - INFO - Notified 1/1 moderators about bot Poké Helper
+2025-08-19 09:53:48,351 - bot - ERROR - Permission denied: Cannot kick bot Poké Helper
+2025-08-19 09:55:11,641 - bot - INFO - Bot detected joining ☆𝐀𝐬𝐲𝐥𝐮𝐦 𝐂𝐢𝐭𝐲☆ BACK UP serv: AI Chat (ID: 1089317211652509811)
+2025-08-19 09:55:12,882 - bot - INFO - Notified moderator luis01_. about bot AI Chat
+2025-08-19 09:55:12,882 - bot - INFO - Notified 1/1 moderators about bot AI Chat
+2025-08-19 09:55:15,080 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-19 09:55:15,080 - __main__ - INFO - Starting Discord Security Bot...
+2025-08-19 09:55:15,080 - discord.client - INFO - logging in using static token
+2025-08-19 09:55:15,614 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f201832dd062041ae15a9a2df0632e40).
+2025-08-19 09:55:17,622 - bot - INFO - Tester#0385 has connected to Discord!
+2025-08-19 09:55:17,622 - bot - INFO - Bot is in 1 guilds
+2025-08-19 09:56:31,881 - bot - INFO - Bot detected joining ☆𝐀𝐬𝐲𝐥𝐮𝐦 𝐂𝐢𝐭𝐲☆ BACK UP serv: Mimu (ID: 493716749342998541)
+2025-08-19 09:56:33,479 - bot - INFO - Notified moderator luis01_. about bot Mimu
+2025-08-19 09:56:33,479 - bot - INFO - Notified 1/1 moderators about bot Mimu
+2025-08-19 09:56:37,838 - bot - INFO - Bot Mimu (ID: 493716749342998541) kicked from ☆𝐀𝐬𝐲𝐥𝐮𝐦 𝐂𝐢𝐭𝐲☆ BACK UP serv - Rejected by luis01_.
+2025-08-19 09:59:29,371 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-19 09:59:29,372 - __main__ - INFO - Starting Discord Security Bot...
+2025-08-19 09:59:29,372 - discord.client - INFO - logging in using static token
+2025-08-19 09:59:30,212 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1ff1a0135eda6f6737781b0d5fbc0faf).
+2025-08-19 09:59:32,220 - bot - INFO - Tester#0385 has connected to Discord!
+2025-08-19 09:59:32,220 - bot - INFO - Bot is in 1 guilds
+2025-08-19 09:59:50,067 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "botstatus" is not found
+2025-08-19 09:59:56,383 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "botstatus" is not found
+2025-08-19 10:00:15,060 - bot - INFO - Bot detected joining ☆𝐀𝐬𝐲𝐥𝐮𝐦 𝐂𝐢𝐭𝐲☆ BACK UP serv: OwO (ID: 408785106942164992)
+2025-08-19 10:00:17,001 - bot - INFO - Notified moderator luis01_. about bot OwO
+2025-08-19 10:00:17,001 - bot - INFO - Notified 1/1 moderators about bot OwO
+2025-08-19 10:01:32,234 - discord.app_commands.tree - ERROR - Ignoring exception in command tree
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/tree.py", line 1151, in wrapper
+    await self._call(interaction)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/tree.py", line 1283, in _call
+    command, options = self._get_app_command_options(data)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/tree.py", line 1187, in _get_app_command_options
+    raise CommandNotFound(name, parents)
+discord.app_commands.errors.CommandNotFound: Application command 'purge' not found
+2025-08-19 10:01:44,777 - discord.app_commands.tree - ERROR - Ignoring exception in command tree
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/tree.py", line 1151, in wrapper
+    await self._call(interaction)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/tree.py", line 1283, in _call
+    command, options = self._get_app_command_options(data)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/tree.py", line 1187, in _get_app_command_options
+    raise CommandNotFound(name, parents)
+discord.app_commands.errors.CommandNotFound: Application command 'active-dev-badge' not found
+2025-08-21 10:48:18,667 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-21 10:48:18,669 - __main__ - INFO - Starting Discord Security Bot...
+2025-08-21 10:48:18,669 - discord.client - INFO - logging in using static token
+2025-08-21 10:48:19,253 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: bbdd62ea68efb3a80062d648e933f121).
+2025-08-21 10:48:21,260 - bot - INFO - Tester#0385 has connected to Discord!
+2025-08-21 10:48:21,260 - bot - INFO - Bot is in 1 guilds
+2025-08-21 10:49:29,034 - bot - INFO - Bot detected joining ☆𝐀𝐬𝐲𝐥𝐮𝐦 𝐂𝐢𝐭𝐲☆ BACK UP serv: Confessions (ID: 712011923176030229)
+2025-08-21 10:49:30,811 - bot - INFO - Notified moderator luis01_. about bot Confessions
+2025-08-21 10:49:30,811 - bot - INFO - Notified 1/1 moderators about bot Confessions
+2025-08-21 10:51:45,818 - bot - INFO - Bot detected joining ☆𝐀𝐬𝐲𝐥𝐮𝐦 𝐂𝐢𝐭𝐲☆ BACK UP serv: FredBoat♪♪ (ID: 184405311681986560)
+2025-08-21 10:51:47,073 - bot - INFO - Notified moderator luis01_. about bot FredBoat♪♪
+2025-08-21 10:51:47,369 - utils - WARNING - Cannot send DM to _the.ray - DMs disabled or blocked
+2025-08-21 10:51:47,369 - bot - INFO - Notified 1/2 moderators about bot FredBoat♪♪
+2025-08-21 10:52:35,051 - bot - INFO - Bot detected joining ☆𝐀𝐬𝐲𝐥𝐮𝐦 𝐂𝐢𝐭𝐲☆ BACK UP serv: DISBOARD (ID: 302050872383242240)
+2025-08-21 10:52:38,139 - bot - INFO - Notified moderator luis01_. about bot DISBOARD
+2025-08-21 10:52:39,904 - bot - INFO - Notified moderator _the.ray about bot DISBOARD
+2025-08-21 10:52:39,904 - bot - INFO - Notified 2/2 moderators about bot DISBOARD
+2025-08-21 10:52:46,593 - bot - INFO - Bot DISBOARD (ID: 302050872383242240) kicked from ☆𝐀𝐬𝐲𝐥𝐮𝐦 𝐂𝐢𝐭𝐲☆ BACK UP serv - Rejected by _the.ray
+2025-08-21 10:55:04,081 - bot - INFO - Bot detected joining ☆𝐀𝐬𝐲𝐥𝐮𝐦 𝐂𝐢𝐭𝐲☆ BACK UP serv: Demon™ (ID: 1094230281361301584)
+2025-08-21 10:55:05,293 - bot - INFO - Notified moderator luis01_. about bot Demon™
+2025-08-21 10:55:06,409 - bot - INFO - Notified moderator _the.ray about bot Demon™
+2025-08-21 10:55:06,410 - bot - INFO - Notified 2/2 moderators about bot Demon™
+2025-08-21 10:55:14,416 - bot - INFO - Bot Demon™ (ID: 1094230281361301584) approved by _the.ray in ☆𝐀𝐬𝐲𝐥𝐮𝐦 𝐂𝐢𝐭𝐲☆ BACK UP serv
+2025-08-26 15:31:51,068 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-26 15:31:51,069 - __main__ - INFO - Starting Discord Security Bot...
+2025-08-26 15:31:51,069 - discord.client - INFO - logging in using static token
+2025-08-26 15:31:51,984 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4d23c4e89eb4d585700e6fb15c1ce737).
+2025-08-26 15:31:53,992 - bot - INFO - Tester#0385 has connected to Discord!
+2025-08-26 15:31:53,992 - bot - INFO - Bot is in 1 guilds
+2025-08-26 15:31:54,916 - database - INFO - Database initialized successfully
+2025-08-26 15:33:31,614 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-26 15:33:31,615 - __main__ - INFO - Starting Discord Security Bot...
+2025-08-26 15:33:31,615 - discord.client - INFO - logging in using static token
+2025-08-26 15:33:32,356 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c5ea364a7bb8f57ba44e18f6362768a7).
+2025-08-26 15:33:34,362 - bot - INFO - Tester#0385 has connected to Discord!
+2025-08-26 15:33:34,362 - bot - INFO - Bot is in 1 guilds
+2025-08-26 15:33:34,964 - database - INFO - Database initialized successfully
+2025-08-26 15:34:21,427 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "logs" is not found
+2025-08-26 15:34:39,896 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "logs" is not found
+2025-08-26 15:36:45,954 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-26 15:36:45,955 - __main__ - INFO - Starting Discord Security Bot...
+2025-08-26 15:36:45,956 - discord.client - INFO - logging in using static token
+2025-08-26 15:36:47,068 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: eaede06ba3948aa3c16dfdfbc9efd47b).
+2025-08-26 15:36:49,080 - bot_fixed - INFO - Tester#0385 has connected to Discord!
+2025-08-26 15:36:49,080 - bot_fixed - INFO - Bot is in 1 guilds
+2025-08-26 15:36:54,102 - database - INFO - Database initialized successfully
+2025-08-26 15:39:00,666 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-26 15:39:00,668 - __main__ - INFO - Starting Discord Security Bot...
+2025-08-26 15:39:00,669 - discord.client - INFO - logging in using static token
+2025-08-26 15:39:01,609 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b05773c6d96c5ee15818a4fc87d45231).
+2025-08-26 15:39:03,632 - bot_fixed - INFO - Tester#0385 has connected to Discord!
+2025-08-26 15:39:03,632 - bot_fixed - INFO - Bot is in 1 guilds
+2025-08-26 15:39:08,455 - database - INFO - Database initialized successfully
+2025-08-26 15:39:43,074 - bot_fixed - INFO - Bot detected joining ☆𝐀𝐬𝐲𝐥𝐮𝐦 𝐂𝐢𝐭𝐲☆ BACK UP serv: Uzox (ID: 760027263046909992)
+2025-08-26 15:39:44,942 - bot_fixed - INFO - Notified moderator luis01_. about bot Uzox
+2025-08-26 15:39:44,943 - bot_fixed - INFO - Notified 1/1 moderators about bot Uzox
+2025-08-26 15:39:48,931 - bot_fixed - INFO - Bot Uzox (ID: 760027263046909992) approved by luis01_. in ☆𝐀𝐬𝐲𝐥𝐮𝐦 𝐂𝐢𝐭𝐲☆ BACK UP serv
+2025-08-26 16:09:21,017 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-26 16:09:21,019 - __main__ - INFO - Starting Discord Security Bot...
+2025-08-26 16:09:21,019 - discord.client - INFO - logging in using static token
+2025-08-26 16:09:21,741 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 21afc4a0c08f1e14e5a6647c731b07a5).
+2025-08-26 16:09:23,747 - bot_fixed - INFO - Tester#0385 has connected to Discord!
+2025-08-26 16:09:23,747 - bot_fixed - INFO - Bot is in 1 guilds
+2025-08-26 16:09:24,774 - database - INFO - Database initialized successfully
+2025-08-26 16:12:52,963 - bot_fixed - INFO - Bot detected joining ☆𝐀𝐬𝐲𝐥𝐮𝐦 𝐂𝐢𝐭𝐲☆ BACK UP serv: Tester v2.0 (ID: 1409797237458079794)
+2025-08-26 16:12:57,843 - bot_fixed - INFO - Notified moderator _itz.ray about bot Tester v2.0
+2025-08-26 16:12:59,366 - bot_fixed - INFO - Notified moderator luis01_. about bot Tester v2.0
+2025-08-26 16:12:59,366 - bot_fixed - INFO - Notified 2/2 moderators about bot Tester v2.0
+2025-08-26 16:13:04,338 - bot_fixed - INFO - Bot Tester v2.0 (ID: 1409797237458079794) approved by _itz.ray in ☆𝐀𝐬𝐲𝐥𝐮𝐦 𝐂𝐢𝐭𝐲☆ BACK UP serv
+2025-09-01 14:58:44,247 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-01 14:58:44,248 - __main__ - INFO - Starting Discord Security Bot...
+2025-09-01 14:58:44,248 - discord.client - INFO - logging in using static token
+2025-09-01 14:58:44,890 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d8527816f364489f9f898f2b674fd454).
+2025-09-01 14:58:46,895 - bot_fixed - INFO - Tester v2.0#2790 has connected to Discord!
+2025-09-01 14:58:46,895 - bot_fixed - INFO - Bot is in 1 guilds
+2025-09-01 14:58:48,707 - database - INFO - Database initialized successfully
+2025-09-01 14:58:48,708 - bot_fixed - INFO - Discord Security Bot v2.0 by spice.efx - Fully operational!
