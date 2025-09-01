@@ -68,7 +68,7 @@ Your bot needs these permissions in Discord:
 
 Edit `.env` file to customize:
 - `DISCORD_BOT_TOKEN` - Your bot's token
-- `TARGET_ROLE_ID` - Role ID that receives notifications (default: 1266706345571258390)
+- `TARGET_ROLE_ID` - Role ID that receives notifications (modify)
 - `APPROVAL_TIMEOUT` - Seconds to wait before auto-kick (default: 10)
 - `COMMAND_PREFIX` - Bot command prefix (default: !)
 
