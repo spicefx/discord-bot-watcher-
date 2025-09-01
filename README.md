@@ -52,7 +52,7 @@ Your bot needs these permissions in Discord:
 ## How It Works
 
 1. **Detection**: Bot joins your server → Security bot detects it
-2. **Notification**: DMs sent to users with target role ID `1266706345571258390`
+2. **Notification**: DMs sent to users with target role ID `role id`
 3. **Approval**: Users click ✅ to approve or ❌ to reject
 4. **Auto-kick**: If no response within 10 seconds, bot is automatically kicked
 
